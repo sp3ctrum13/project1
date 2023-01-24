@@ -1,0 +1,10 @@
+useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+
+
+
+
+INSERT INTO `module_convert` VALUES (NULL, '85', ';85;', ';5-ig;', '2022');
+INSERT INTO `module_convert` VALUES (NULL, '86', ';86;', ';5-ig;', '2022');
+INSERT INTO `module_convert` VALUES (NULL, '87', ';87;', ';5-ig;', '2022');
+INSERT INTO `module_convert` VALUES (NULL, '89', ';89;', ';5-ig;', '2022');
+INSERT INTO `module_convert` VALUES (NULL, '100', ';155;', ';5-ig;', '2022');
